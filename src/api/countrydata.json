@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "countyname": "Afghanistan",
+      "capital": "Kabul",
+      "population": 38928341,
+      "somefact": "Afghanistan is known for its mountainous terrain."
+    },
+    {
+      "id": 2,
+      "countyname": "Albania",
+      "capital": "Tirana",
+      "population": 2877797,
+      "somefact": "Albania is home to many ancient castles and archaeological sites."
+    },
+    {
+      "id": 3,
+      "countyname": "Algeria",
+      "capital": "Algiers",
+      "population": 43851044,
+      "somefact": "Algeria is the largest country in Africa by land area."
+    },
+    {
+      "id": 4,
+      "countyname": "Argentina",
+      "capital": "Buenos Aires",
+      "population": 45195774,
+      "somefact": "Argentina is famous for the dance style known as the tango."
+    },
+    {
+      "id": 5,
+      "countyname": "Australia",
+      "capital": "Canberra",
+      "population": 25687041,
+      "somefact": "Australia is the smallest continent and the largest island in the world."
+    },
+    {
+      "id": 6,
+      "countyname": "Bangladesh",
+      "capital": "Dhaka",
+      "population": 164689383,
+      "somefact": "Bangladesh has the largest river delta in the world, the Sundarbans."
+    },
+    {
+      "id": 7,
+      "countyname": "Brazil",
+      "capital": "Brasília",
+      "population": 212559417,
+      "somefact": "Brazil is home to the Amazon Rainforest, the largest tropical rainforest in the world."
+    },
+    {
+      "id": 8,
+      "countyname": "Canada",
+      "capital": "Ottawa",
+      "population": 37742154,
+      "somefact": "Canada has the longest coastline of any country in the world."
+    },
+    {
+      "id": 9,
+      "countyname": "China",
+      "capital": "Beijing",
+      "population": 1444216107,
+      "somefact": "China is the most populous country in the world."
+    },
+    {
+      "id": 10,
+      "countyname": "Egypt",
+      "capital": "Cairo",
+      "population": 102334404,
+      "somefact": "Egypt is home to the Great Pyramid of Giza, one of the Seven Wonders of the Ancient World."
+    },
+    {
+      "id": 11,
+      "countyname": "France",
+      "capital": "Paris",
+      "population": 65273511,
+      "somefact": "France is the most visited country in the world."
+    },
+    {
+      "id": 12,
+      "countyname": "Germany",
+      "capital": "Berlin",
+      "population": 83783942,
+      "somefact": "Germany is known for its automotive industry, including brands like BMW, Mercedes-Benz, and Volkswagen."
+    },
+    {
+      "id": 13,
+      "countyname": "India",
+      "capital": "New Delhi",
+      "population": 1380004385,
+      "somefact": "India is the world's largest democracy."
+    },
+    {
+      "id": 14,
+      "countyname": "Japan",
+      "capital": "Tokyo",
+      "population": 126476461,
+      "somefact": "Tokyo is the most populous metropolitan area in the world."
+    },
+    {
+      "id": 15,
+      "countyname": "Mexico",
+      "capital": "Mexico City",
+      "population": 128932753,
+      "somefact": "Mexico City is built on the ruins of the ancient Aztec capital Tenochtitlán."
+    },
+    {
+      "id": 16,
+      "countyname": "Nigeria",
+      "capital": "Abuja",
+      "population": 206139589,
+      "somefact": "Nigeria is the most populous country in Africa."
+    },
+    {
+      "id": 17,
+      "countyname": "Russia",
+      "capital": "Moscow",
+      "population": 145912025,
+      "somefact": "Russia is the largest country in the world by land area."
+    },
+    {
+      "id": 18,
+      "countyname": "South Africa",
+      "capital": "Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)",
+      "population": 59308690,
+      "somefact": "South Africa has three capital cities, each serving a different purpose."
+    },
+    {
+      "id": 19,
+      "countyname": "United Kingdom",
+      "capital": "London",
+      "population": 67886011,
+      "somefact": "The UK is made up of four countries: England, Scotland, Wales, and Northern Ireland."
+    },
+    {
+      "id": 20,
+      "countyname": "United States",
+      "capital": "Washington, D.C.",
+      "population": 331002651,
+      "somefact": "The US has the world's largest economy."
+    }
+  ]
+  
